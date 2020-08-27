@@ -1,5 +1,8 @@
 {
   "1.0.1": {
     "en": "Added support for ZigBee and Z-Wave devices, and improved the remote control triggers."
+  },
+  "2.0.0": {
+    "en": "1) Support Homey V5.0.0. 2) Support all namron devices. 3) Optimized the support for Flow, especially Remote. 4) If the previous devices are not working properly, please add them again."
   }
 }
