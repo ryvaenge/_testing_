@@ -1,0 +1,72 @@
+{
+  "id": "1402756",
+  "name": {
+    "en": "1402756"
+  },
+  "class": "light",
+  "capabilities": [
+    "onoff",
+    "dim"
+  ],
+  "capabilitiesOptions": {
+    "onoff": {
+      "setOnDim": false
+    },
+    "dim": {
+      "opts": {
+        "duration": true
+      }
+    }
+  },
+  "icon": "/drivers/1402756/assets/icon.svg",
+  "images": {
+    "large": "/drivers/1402756/assets/images/large.png",
+    "small": "/drivers/1402756/assets/images/small.png"
+  },
+  "zwave": {
+    "manufacturerId": [
+      816,
+      1080
+    ],
+    "productTypeId": [
+      2
+    ],
+    "productId": [
+      2
+    ],
+    "learnmode": {
+      "image": "/drivers/1402756/assets/learnmode.svg",
+      "instruction": {
+        "en": "Inclusion \nTriple press the reset button on the dimmer, it will set the dimmer into inclusion mode. The purple indicator light will stay solid on for 10 seconds to indicate successful inclusion. \n\nExclusion \nTriple press the reset button, the dimmer will be set to exclusion mode, and waiting to be excluded, then the dimmer will be excluded from the network. \n\nFactory reset \nPress and hold down the reset button for over 5 seconds, the dimmer will be reset to factory defaults."
+      }
+    },
+    "associationGroups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "associationGroupsOptions": {
+      "1": {
+        "hint": {
+          "en": "The ASSIC of Lifeline: 4C 69 66 65 6C 69 6E 65. \n1. When press and hold down reset button over 5s to reset the dimmer send Device Reset Locally Notification CC to associated devices of this group to report factory reset information. \n2. When load state changes send Switch Multilevel Report CC to associated devices of this group."
+        }
+      },
+      "2": {
+        "hint": {
+          "en": "Basic Set: 42 61 73 69 63 20 53 65 74. \n1. Short press Knob turn on the dimmer sends Basic Set (0xFF) to associated devices. \n2. Short press Knob turn off the dimmer sends Basic Set (0x00) to associated devices."
+        }
+      },
+      "3": {
+        "hint": {
+          "en": "Switch Multilevel: 53 77 69 74 63 68 20 4D 75 6C 74 69 6C 65 76 65 6C. \n1. Turn knob to the left sends Switch Multilevel Set (to keep associated devices in sync with this device) to associated devices. \n2. Turn knob to the right sends Switch Multilevel Set (to keep associated devices in sync with this device) to associated devices."
+        }
+      },
+      "4": {
+        "hint": {
+          "en": "External Button: 45 78 74 65 72 6E 61 6C 20 42 75 74 74 6F 6E. \n1. External button hold send Switch Multilevel Start Level Change (Switchover dimmer Up/Down). \n2. External button release send Switch Multilevel Stop Level Change."
+        }
+      }
+    }
+  }
+}
