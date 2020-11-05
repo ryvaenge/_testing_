@@ -1,13 +1,13 @@
 {
   "triggers": [
     {
-      "id": "open",
+      "id": "4512716_open",
       "title": {
         "en": "Window/Door is open"
       }
     },
     {
-      "id": "closed",
+      "id": "4512716_closed",
       "title": {
         "en": "Window/Door is closed"
       }

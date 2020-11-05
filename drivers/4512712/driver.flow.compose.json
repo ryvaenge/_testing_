@@ -1,37 +1,37 @@
 {
   "triggers": [
     {
-      "id": "on_off",
+      "id": "4512712_on_off",
       "title": {
         "en": "On/Off"
       }
     },
     {
-      "id": "on_off_key_held_down",
+      "id": "4512712_on_off_key_held_down",
       "title": {
         "en": "On/Off (Key held down)"
       }
     },
     {
-      "id": "on_off_key_released",
+      "id": "4512712_on_off_key_released",
       "title": {
         "en": "On/Off (Key released)"
       }
     },
     {
-      "id": "level",
+      "id": "4512712_level",
       "title": {
         "en": "Level (Key pressed 1 time)"
       }
     },
     {
-      "id": "level_key_held_down",
+      "id": "4512712_level_key_held_down",
       "title": {
         "en": "Level (Key held down)"
       }
     },
     {
-      "id": "level_key_released",
+      "id": "4512712_level_key_released",
       "title": {
         "en": "Level (Key released)"
       }

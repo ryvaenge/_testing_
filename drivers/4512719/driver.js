@@ -7,22 +7,22 @@ class MyDriver extends SrZigBeeDriver {
   onInit () {
     super.onInit()
 
-    this.getDeviceTriggerCard('on').
+    this.getDeviceTriggerCard('4512719_on').
       registerRunListener(async (args, state) => {
         return args.group === state.group
       })
 
-    this.getDeviceTriggerCard('off').
+    this.getDeviceTriggerCard('4512719_off').
       registerRunListener(async (args, state) => {
         return args.group === state.group
       })
 
-    this.getDeviceTriggerCard('level_move_with_onoff').
+    this.getDeviceTriggerCard('4512719_level_move_with_onoff').
       registerRunListener(async (args, state) => {
         return args.group === state.group
       })
 
-    this.getDeviceTriggerCard('level_stop_with_onoff').
+    this.getDeviceTriggerCard('4512719_level_stop_with_onoff').
       registerRunListener(async (args, state) => {
         return args.group === state.group
       })

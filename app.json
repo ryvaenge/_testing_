@@ -1,6 +1,6 @@
 {
   "id": "net.filllip-namron",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "brandColor": "#C0C81D",
@@ -56,7 +56,7 @@
   "flow": {
     "actions": [
       {
-        "id": "level_step_with_onoff",
+        "id": "1402755_level_step_with_onoff",
         "title": {
           "en": "Step level (with On/Off)"
         },
@@ -103,7 +103,7 @@
         ]
       },
       {
-        "id": "level_move_with_onoff",
+        "id": "1402755_level_move_with_onoff",
         "title": {
           "en": "Move level (with On/Off)"
         },
@@ -138,7 +138,7 @@
         ]
       },
       {
-        "id": "level_stop_with_onoff",
+        "id": "1402755_level_stop_with_onoff",
         "title": {
           "en": "Stop level (with On/Off)"
         },
@@ -152,7 +152,7 @@
         ]
       },
       {
-        "id": "recall_scene",
+        "id": "1402755_recall_scene",
         "title": {
           "en": "Recall scene"
         },
@@ -179,7 +179,7 @@
         ]
       },
       {
-        "id": "store_scene",
+        "id": "1402755_store_scene",
         "title": {
           "en": "Store scene"
         },
@@ -206,7 +206,7 @@
         ]
       },
       {
-        "id": "level_step_with_onoff",
+        "id": "3802967_level_step_with_onoff",
         "title": {
           "en": "Step level (with On/Off)"
         },
@@ -253,7 +253,7 @@
         ]
       },
       {
-        "id": "level_move_with_onoff",
+        "id": "3802967_level_move_with_onoff",
         "title": {
           "en": "Move level (with On/Off)"
         },
@@ -288,7 +288,7 @@
         ]
       },
       {
-        "id": "level_stop_with_onoff",
+        "id": "3802967_level_stop_with_onoff",
         "title": {
           "en": "Stop level (with On/Off)"
         },
@@ -302,7 +302,7 @@
         ]
       },
       {
-        "id": "move_hue",
+        "id": "3802967_move_hue",
         "title": {
           "en": "Move hue"
         },
@@ -337,7 +337,7 @@
         ]
       },
       {
-        "id": "move_saturation",
+        "id": "3802967_move_saturation",
         "title": {
           "en": "Move saturation"
         },
@@ -372,7 +372,7 @@
         ]
       },
       {
-        "id": "step_color_temperature",
+        "id": "3802967_step_color_temperature",
         "title": {
           "en": "Step color temperature"
         },
@@ -417,7 +417,7 @@
         ]
       },
       {
-        "id": "move_color_temperature",
+        "id": "3802967_move_color_temperature",
         "title": {
           "en": "Move color temperature"
         },
@@ -452,7 +452,7 @@
         ]
       },
       {
-        "id": "stop_move_step",
+        "id": "3802967_stop_move_step",
         "title": {
           "en": "Stop move step"
         },
@@ -469,7 +469,7 @@
         ]
       },
       {
-        "id": "recall_scene",
+        "id": "3802967_recall_scene",
         "title": {
           "en": "Recall scene"
         },
@@ -496,7 +496,7 @@
         ]
       },
       {
-        "id": "store_scene",
+        "id": "3802967_store_scene",
         "title": {
           "en": "Store scene"
         },
@@ -523,7 +523,7 @@
         ]
       },
       {
-        "id": "level_step_with_onoff",
+        "id": "4512700_level_step_with_onoff",
         "title": {
           "en": "Step level (with On/Off)"
         },
@@ -570,7 +570,7 @@
         ]
       },
       {
-        "id": "level_move_with_onoff",
+        "id": "4512700_level_move_with_onoff",
         "title": {
           "en": "Move level (with On/Off)"
         },
@@ -605,7 +605,7 @@
         ]
       },
       {
-        "id": "level_stop_with_onoff",
+        "id": "4512700_level_stop_with_onoff",
         "title": {
           "en": "Stop level (with On/Off)"
         },
@@ -619,7 +619,7 @@
         ]
       },
       {
-        "id": "recall_scene",
+        "id": "4512700_recall_scene",
         "title": {
           "en": "Recall scene"
         },
@@ -646,7 +646,7 @@
         ]
       },
       {
-        "id": "store_scene",
+        "id": "4512700_store_scene",
         "title": {
           "en": "Store scene"
         },
@@ -673,7 +673,7 @@
         ]
       },
       {
-        "id": "level_step_with_onoff",
+        "id": "4512707_CCT_level_step_with_onoff",
         "title": {
           "en": "Step level (with On/Off)"
         },
@@ -720,7 +720,7 @@
         ]
       },
       {
-        "id": "level_move_with_onoff",
+        "id": "4512707_CCT_level_move_with_onoff",
         "title": {
           "en": "Move level (with On/Off)"
         },
@@ -755,7 +755,7 @@
         ]
       },
       {
-        "id": "level_stop_with_onoff",
+        "id": "4512707_CCT_level_stop_with_onoff",
         "title": {
           "en": "Stop level (with On/Off)"
         },
@@ -769,7 +769,7 @@
         ]
       },
       {
-        "id": "step_color_temperature",
+        "id": "4512707_CCT_step_color_temperature",
         "title": {
           "en": "Step color temperature"
         },
@@ -814,7 +814,7 @@
         ]
       },
       {
-        "id": "move_color_temperature",
+        "id": "4512707_CCT_move_color_temperature",
         "title": {
           "en": "Move color temperature"
         },
@@ -849,7 +849,7 @@
         ]
       },
       {
-        "id": "stop_move_step",
+        "id": "4512707_CCT_stop_move_step",
         "title": {
           "en": "Stop move step"
         },
@@ -866,7 +866,7 @@
         ]
       },
       {
-        "id": "recall_scene",
+        "id": "4512707_CCT_recall_scene",
         "title": {
           "en": "Recall scene"
         },
@@ -893,7 +893,7 @@
         ]
       },
       {
-        "id": "store_scene",
+        "id": "4512707_CCT_store_scene",
         "title": {
           "en": "Store scene"
         },
@@ -920,7 +920,7 @@
         ]
       },
       {
-        "id": "level_step_with_onoff",
+        "id": "4512707_COLOR_level_step_with_onoff",
         "title": {
           "en": "Step level (with On/Off)"
         },
@@ -967,7 +967,7 @@
         ]
       },
       {
-        "id": "level_move_with_onoff",
+        "id": "4512707_COLOR_level_move_with_onoff",
         "title": {
           "en": "Move level (with On/Off)"
         },
@@ -1002,7 +1002,7 @@
         ]
       },
       {
-        "id": "level_stop_with_onoff",
+        "id": "4512707_COLOR_level_stop_with_onoff",
         "title": {
           "en": "Stop level (with On/Off)"
         },
@@ -1016,7 +1016,7 @@
         ]
       },
       {
-        "id": "move_hue",
+        "id": "4512707_COLOR_move_hue",
         "title": {
           "en": "Move hue"
         },
@@ -1051,7 +1051,7 @@
         ]
       },
       {
-        "id": "move_saturation",
+        "id": "4512707_COLOR_move_saturation",
         "title": {
           "en": "Move saturation"
         },
@@ -1086,7 +1086,7 @@
         ]
       },
       {
-        "id": "step_color_temperature",
+        "id": "4512707_COLOR_step_color_temperature",
         "title": {
           "en": "Step color temperature"
         },
@@ -1131,7 +1131,7 @@
         ]
       },
       {
-        "id": "move_color_temperature",
+        "id": "4512707_COLOR_move_color_temperature",
         "title": {
           "en": "Move color temperature"
         },
@@ -1166,7 +1166,7 @@
         ]
       },
       {
-        "id": "stop_move_step",
+        "id": "4512707_COLOR_stop_move_step",
         "title": {
           "en": "Stop move step"
         },
@@ -1183,7 +1183,7 @@
         ]
       },
       {
-        "id": "recall_scene",
+        "id": "4512707_COLOR_recall_scene",
         "title": {
           "en": "Recall scene"
         },
@@ -1210,7 +1210,7 @@
         ]
       },
       {
-        "id": "store_scene",
+        "id": "4512707_COLOR_store_scene",
         "title": {
           "en": "Store scene"
         },
@@ -1237,7 +1237,7 @@
         ]
       },
       {
-        "id": "level_step_with_onoff",
+        "id": "4512707_DIM_level_step_with_onoff",
         "title": {
           "en": "Step level (with On/Off)"
         },
@@ -1284,7 +1284,7 @@
         ]
       },
       {
-        "id": "level_move_with_onoff",
+        "id": "4512707_DIM_level_move_with_onoff",
         "title": {
           "en": "Move level (with On/Off)"
         },
@@ -1319,7 +1319,7 @@
         ]
       },
       {
-        "id": "level_stop_with_onoff",
+        "id": "4512707_DIM_level_stop_with_onoff",
         "title": {
           "en": "Stop level (with On/Off)"
         },
@@ -1333,7 +1333,7 @@
         ]
       },
       {
-        "id": "recall_scene",
+        "id": "4512707_DIM_recall_scene",
         "title": {
           "en": "Recall scene"
         },
@@ -1360,7 +1360,7 @@
         ]
       },
       {
-        "id": "store_scene",
+        "id": "4512707_DIM_store_scene",
         "title": {
           "en": "Store scene"
         },
@@ -1387,7 +1387,7 @@
         ]
       },
       {
-        "id": "level_step_with_onoff",
+        "id": "4512708_level_step_with_onoff",
         "title": {
           "en": "Step level (with On/Off)"
         },
@@ -1434,7 +1434,7 @@
         ]
       },
       {
-        "id": "level_move_with_onoff",
+        "id": "4512708_level_move_with_onoff",
         "title": {
           "en": "Move level (with On/Off)"
         },
@@ -1469,7 +1469,7 @@
         ]
       },
       {
-        "id": "level_stop_with_onoff",
+        "id": "4512708_level_stop_with_onoff",
         "title": {
           "en": "Stop level (with On/Off)"
         },
@@ -1483,7 +1483,7 @@
         ]
       },
       {
-        "id": "recall_scene",
+        "id": "4512708_recall_scene",
         "title": {
           "en": "Recall scene"
         },
@@ -1510,7 +1510,7 @@
         ]
       },
       {
-        "id": "store_scene",
+        "id": "4512708_store_scene",
         "title": {
           "en": "Store scene"
         },
@@ -1539,7 +1539,7 @@
     ],
     "triggers": [
       {
-        "id": "on",
+        "id": "4512701_on",
         "title": {
           "en": "On"
         },
@@ -1552,7 +1552,7 @@
         ]
       },
       {
-        "id": "off",
+        "id": "4512701_off",
         "title": {
           "en": "Off"
         },
@@ -1565,7 +1565,7 @@
         ]
       },
       {
-        "id": "level_move_with_onoff",
+        "id": "4512701_level_move_with_onoff",
         "title": {
           "en": "Move level (with On/Off)"
         },
@@ -1596,7 +1596,7 @@
         ]
       },
       {
-        "id": "level_stop_with_onoff",
+        "id": "4512701_level_stop_with_onoff",
         "title": {
           "en": "Stop level (with On/Off)"
         },
@@ -1609,7 +1609,7 @@
         ]
       },
       {
-        "id": "on",
+        "id": "4512702_on",
         "title": {
           "en": "On"
         },
@@ -1622,7 +1622,7 @@
         ]
       },
       {
-        "id": "off",
+        "id": "4512702_off",
         "title": {
           "en": "Off"
         },
@@ -1635,7 +1635,7 @@
         ]
       },
       {
-        "id": "level_step_with_onoff",
+        "id": "4512702_level_step_with_onoff",
         "title": {
           "en": "Step level (with On/Off)"
         },
@@ -1674,7 +1674,7 @@
         ]
       },
       {
-        "id": "level_move_with_onoff",
+        "id": "4512702_level_move_with_onoff",
         "title": {
           "en": "Move level (with On/Off)"
         },
@@ -1705,7 +1705,7 @@
         ]
       },
       {
-        "id": "level_stop_with_onoff",
+        "id": "4512702_level_stop_with_onoff",
         "title": {
           "en": "Stop level (with On/Off)"
         },
@@ -1718,7 +1718,7 @@
         ]
       },
       {
-        "id": "on",
+        "id": "4512703_on",
         "title": {
           "en": "On"
         },
@@ -1761,7 +1761,7 @@
         ]
       },
       {
-        "id": "off",
+        "id": "4512703_off",
         "title": {
           "en": "Off"
         },
@@ -1804,7 +1804,7 @@
         ]
       },
       {
-        "id": "level_move_with_onoff",
+        "id": "4512703_level_move_with_onoff",
         "title": {
           "en": "Move level (with On/Off)"
         },
@@ -1865,7 +1865,7 @@
         ]
       },
       {
-        "id": "level_stop_with_onoff",
+        "id": "4512703_level_stop_with_onoff",
         "title": {
           "en": "Stop level (with On/Off)"
         },
@@ -1908,7 +1908,7 @@
         ]
       },
       {
-        "id": "on",
+        "id": "4512705_on",
         "title": {
           "en": "On"
         },
@@ -1951,7 +1951,7 @@
         ]
       },
       {
-        "id": "off",
+        "id": "4512705_off",
         "title": {
           "en": "Off"
         },
@@ -1994,7 +1994,7 @@
         ]
       },
       {
-        "id": "recall_scene",
+        "id": "4512705_recall_scene",
         "title": {
           "en": "Recall scene"
         },
@@ -2055,7 +2055,7 @@
         ]
       },
       {
-        "id": "store_scene",
+        "id": "4512705_store_scene",
         "title": {
           "en": "Store scene"
         },
@@ -2116,7 +2116,7 @@
         ]
       },
       {
-        "id": "level_move_with_onoff",
+        "id": "4512705_level_move_with_onoff",
         "title": {
           "en": "Move level (with On/Off)"
         },
@@ -2177,7 +2177,7 @@
         ]
       },
       {
-        "id": "level_stop_with_onoff",
+        "id": "4512705_level_stop_with_onoff",
         "title": {
           "en": "Stop level (with On/Off)"
         },
@@ -2220,7 +2220,7 @@
         ]
       },
       {
-        "id": "on",
+        "id": "4512706_on",
         "title": {
           "en": "On"
         },
@@ -2263,7 +2263,7 @@
         ]
       },
       {
-        "id": "off",
+        "id": "4512706_off",
         "title": {
           "en": "Off"
         },
@@ -2306,7 +2306,7 @@
         ]
       },
       {
-        "id": "move_to_hue",
+        "id": "4512706_move_to_hue",
         "title": {
           "en": "Move to hue"
         },
@@ -2359,7 +2359,7 @@
         ]
       },
       {
-        "id": "move_to_saturation",
+        "id": "4512706_move_to_saturation",
         "title": {
           "en": "Move to saturation"
         },
@@ -2412,7 +2412,7 @@
         ]
       },
       {
-        "id": "move_saturation",
+        "id": "4512706_move_saturation",
         "title": {
           "en": "Move saturation"
         },
@@ -2473,7 +2473,7 @@
         ]
       },
       {
-        "id": "recall_scene",
+        "id": "4512706_recall_scene",
         "title": {
           "en": "Recall scene"
         },
@@ -2534,7 +2534,7 @@
         ]
       },
       {
-        "id": "store_scene",
+        "id": "4512706_store_scene",
         "title": {
           "en": "Store scene"
         },
@@ -2595,7 +2595,7 @@
         ]
       },
       {
-        "id": "level_step_with_onoff",
+        "id": "4512706_level_step_with_onoff",
         "title": {
           "en": "Step level (with On/Off)"
         },
@@ -2664,7 +2664,7 @@
         ]
       },
       {
-        "id": "level_move_with_onoff",
+        "id": "4512706_level_move_with_onoff",
         "title": {
           "en": "Move level (with On/Off)"
         },
@@ -2725,7 +2725,7 @@
         ]
       },
       {
-        "id": "level_stop_with_onoff",
+        "id": "4512706_level_stop_with_onoff",
         "title": {
           "en": "Stop level (with On/Off)"
         },
@@ -2768,7 +2768,7 @@
         ]
       },
       {
-        "id": "step_color_temperature",
+        "id": "4512706_step_color_temperature",
         "title": {
           "en": "Step color temperature"
         },
@@ -2837,7 +2837,7 @@
         ]
       },
       {
-        "id": "move_to_color_temperature",
+        "id": "4512706_move_to_color_temperature",
         "title": {
           "en": "Move to color temperature"
         },
@@ -2898,7 +2898,7 @@
         ]
       },
       {
-        "id": "move_color_temperature",
+        "id": "4512706_move_color_temperature",
         "title": {
           "en": "Move color temperature"
         },
@@ -2959,7 +2959,7 @@
         ]
       },
       {
-        "id": "stop_move_step",
+        "id": "4512706_stop_move_step",
         "title": {
           "en": "Stop move step"
         },
@@ -3005,7 +3005,7 @@
         ]
       },
       {
-        "id": "all_on",
+        "id": "4512711_all_on",
         "title": {
           "en": "All on"
         },
@@ -3018,7 +3018,7 @@
         ]
       },
       {
-        "id": "all_off",
+        "id": "4512711_all_off",
         "title": {
           "en": "All off"
         },
@@ -3031,7 +3031,7 @@
         ]
       },
       {
-        "id": "all_on_key_held_down",
+        "id": "4512711_all_on_key_held_down",
         "title": {
           "en": "All on (Key held down)"
         },
@@ -3044,7 +3044,7 @@
         ]
       },
       {
-        "id": "all_on_key_released",
+        "id": "4512711_all_on_key_released",
         "title": {
           "en": "All on (Key released)"
         },
@@ -3057,7 +3057,7 @@
         ]
       },
       {
-        "id": "all_off_key_held_down",
+        "id": "4512711_all_off_key_held_down",
         "title": {
           "en": "All off (Key held down)"
         },
@@ -3070,7 +3070,7 @@
         ]
       },
       {
-        "id": "all_off_key_released",
+        "id": "4512711_all_off_key_released",
         "title": {
           "en": "All off (Key released)"
         },
@@ -3083,7 +3083,7 @@
         ]
       },
       {
-        "id": "on",
+        "id": "4512711_on",
         "title": {
           "en": "On"
         },
@@ -3126,7 +3126,7 @@
         ]
       },
       {
-        "id": "off",
+        "id": "4512711_off",
         "title": {
           "en": "Off"
         },
@@ -3169,7 +3169,7 @@
         ]
       },
       {
-        "id": "on_key_held_down",
+        "id": "4512711_on_key_held_down",
         "title": {
           "en": "On (Key held down)"
         },
@@ -3212,7 +3212,7 @@
         ]
       },
       {
-        "id": "on_key_released",
+        "id": "4512711_on_key_released",
         "title": {
           "en": "On (Key released)"
         },
@@ -3255,7 +3255,7 @@
         ]
       },
       {
-        "id": "off_key_held_down",
+        "id": "4512711_off_key_held_down",
         "title": {
           "en": "Off (Key held down)"
         },
@@ -3298,7 +3298,7 @@
         ]
       },
       {
-        "id": "off_key_released",
+        "id": "4512711_off_key_released",
         "title": {
           "en": "Off (Key released)"
         },
@@ -3341,7 +3341,7 @@
         ]
       },
       {
-        "id": "scene_1",
+        "id": "4512711_scene_1",
         "title": {
           "en": "S1"
         },
@@ -3354,7 +3354,7 @@
         ]
       },
       {
-        "id": "scene_2",
+        "id": "4512711_scene_2",
         "title": {
           "en": "S2"
         },
@@ -3367,7 +3367,7 @@
         ]
       },
       {
-        "id": "scene_1_key_held_down",
+        "id": "4512711_scene_1_key_held_down",
         "title": {
           "en": "S1 (Key held down)"
         },
@@ -3380,7 +3380,7 @@
         ]
       },
       {
-        "id": "scene_1_key_released",
+        "id": "4512711_scene_1_key_released",
         "title": {
           "en": "S1 (Key released)"
         },
@@ -3393,7 +3393,7 @@
         ]
       },
       {
-        "id": "scene_2_key_held_down",
+        "id": "4512711_scene_2_key_held_down",
         "title": {
           "en": "S2 (Key held down)"
         },
@@ -3406,7 +3406,7 @@
         ]
       },
       {
-        "id": "scene_2_key_released",
+        "id": "4512711_scene_2_key_released",
         "title": {
           "en": "S2 (Key released)"
         },
@@ -3419,7 +3419,7 @@
         ]
       },
       {
-        "id": "on_off",
+        "id": "4512712_on_off",
         "title": {
           "en": "On/Off"
         },
@@ -3432,7 +3432,7 @@
         ]
       },
       {
-        "id": "on_off_key_held_down",
+        "id": "4512712_on_off_key_held_down",
         "title": {
           "en": "On/Off (Key held down)"
         },
@@ -3445,7 +3445,7 @@
         ]
       },
       {
-        "id": "on_off_key_released",
+        "id": "4512712_on_off_key_released",
         "title": {
           "en": "On/Off (Key released)"
         },
@@ -3458,7 +3458,7 @@
         ]
       },
       {
-        "id": "level",
+        "id": "4512712_level",
         "title": {
           "en": "Level (Key pressed 1 time)"
         },
@@ -3471,7 +3471,7 @@
         ]
       },
       {
-        "id": "level_key_held_down",
+        "id": "4512712_level_key_held_down",
         "title": {
           "en": "Level (Key held down)"
         },
@@ -3484,7 +3484,7 @@
         ]
       },
       {
-        "id": "level_key_released",
+        "id": "4512712_level_key_released",
         "title": {
           "en": "Level (Key released)"
         },
@@ -3497,7 +3497,7 @@
         ]
       },
       {
-        "id": "on",
+        "id": "4512713_on",
         "title": {
           "en": "On"
         },
@@ -3510,7 +3510,7 @@
         ]
       },
       {
-        "id": "off",
+        "id": "4512713_off",
         "title": {
           "en": "Off"
         },
@@ -3523,7 +3523,7 @@
         ]
       },
       {
-        "id": "on_key_held_down",
+        "id": "4512713_on_key_held_down",
         "title": {
           "en": "On (Key held down)"
         },
@@ -3536,7 +3536,7 @@
         ]
       },
       {
-        "id": "on_key_released",
+        "id": "4512713_on_key_released",
         "title": {
           "en": "On (Key released)"
         },
@@ -3549,7 +3549,7 @@
         ]
       },
       {
-        "id": "off_key_held_down",
+        "id": "4512713_off_key_held_down",
         "title": {
           "en": "Off (Key held down)"
         },
@@ -3562,7 +3562,7 @@
         ]
       },
       {
-        "id": "off_key_released",
+        "id": "4512713_off_key_released",
         "title": {
           "en": "Off (Key released)"
         },
@@ -3575,7 +3575,7 @@
         ]
       },
       {
-        "id": "level_up",
+        "id": "4512713_level_up",
         "title": {
           "en": "Level up (Key pressed 1 time)"
         },
@@ -3588,7 +3588,7 @@
         ]
       },
       {
-        "id": "level_down",
+        "id": "4512713_level_down",
         "title": {
           "en": "Level down (Key pressed 1 time)"
         },
@@ -3601,7 +3601,7 @@
         ]
       },
       {
-        "id": "level_up_key_held_down",
+        "id": "4512713_level_up_key_held_down",
         "title": {
           "en": "Level up (Key held down)"
         },
@@ -3614,7 +3614,7 @@
         ]
       },
       {
-        "id": "level_up_key_released",
+        "id": "4512713_level_up_key_released",
         "title": {
           "en": "Level up (Key released)"
         },
@@ -3627,7 +3627,7 @@
         ]
       },
       {
-        "id": "level_down_key_held_down",
+        "id": "4512713_level_down_key_held_down",
         "title": {
           "en": "Level down (Key held down)"
         },
@@ -3640,7 +3640,7 @@
         ]
       },
       {
-        "id": "level_down_key_released",
+        "id": "4512713_level_down_key_released",
         "title": {
           "en": "Level down (Key released)"
         },
@@ -3653,7 +3653,7 @@
         ]
       },
       {
-        "id": "on",
+        "id": "4512714_on",
         "title": {
           "en": "On"
         },
@@ -3696,7 +3696,7 @@
         ]
       },
       {
-        "id": "off",
+        "id": "4512714_off",
         "title": {
           "en": "Off"
         },
@@ -3739,7 +3739,7 @@
         ]
       },
       {
-        "id": "on_key_held_down",
+        "id": "4512714_on_key_held_down",
         "title": {
           "en": "On (Key held down)"
         },
@@ -3782,7 +3782,7 @@
         ]
       },
       {
-        "id": "on_key_released",
+        "id": "4512714_on_key_released",
         "title": {
           "en": "On (Key released)"
         },
@@ -3825,7 +3825,7 @@
         ]
       },
       {
-        "id": "off_key_held_down",
+        "id": "4512714_off_key_held_down",
         "title": {
           "en": "Off (Key held down)"
         },
@@ -3868,7 +3868,7 @@
         ]
       },
       {
-        "id": "off_key_released",
+        "id": "4512714_off_key_released",
         "title": {
           "en": "Off (Key released)"
         },
@@ -3911,7 +3911,7 @@
         ]
       },
       {
-        "id": "open",
+        "id": "4512716_open",
         "title": {
           "en": "Window/Door is open"
         },
@@ -3924,7 +3924,7 @@
         ]
       },
       {
-        "id": "closed",
+        "id": "4512716_closed",
         "title": {
           "en": "Window/Door is closed"
         },
@@ -3937,7 +3937,7 @@
         ]
       },
       {
-        "id": "on",
+        "id": "4512719_on",
         "title": {
           "en": "On"
         },
@@ -3968,7 +3968,7 @@
         ]
       },
       {
-        "id": "off",
+        "id": "4512719_off",
         "title": {
           "en": "Off"
         },
@@ -3999,7 +3999,7 @@
         ]
       },
       {
-        "id": "level_move_with_onoff",
+        "id": "4512719_level_move_with_onoff",
         "title": {
           "en": "Move level (with On/Off)"
         },
@@ -4048,7 +4048,7 @@
         ]
       },
       {
-        "id": "level_stop_with_onoff",
+        "id": "4512719_level_stop_with_onoff",
         "title": {
           "en": "Stop level (with On/Off)"
         },
@@ -4079,7 +4079,7 @@
         ]
       },
       {
-        "id": "on",
+        "id": "4512720_on",
         "title": {
           "en": "On"
         },
@@ -4110,7 +4110,7 @@
         ]
       },
       {
-        "id": "off",
+        "id": "4512720_off",
         "title": {
           "en": "Off"
         },
@@ -4141,7 +4141,7 @@
         ]
       },
       {
-        "id": "on_key_held_down",
+        "id": "4512720_on_key_held_down",
         "title": {
           "en": "On (Key held down)"
         },
@@ -4172,7 +4172,7 @@
         ]
       },
       {
-        "id": "on_key_released",
+        "id": "4512720_on_key_released",
         "title": {
           "en": "On (Key released)"
         },
@@ -4203,7 +4203,7 @@
         ]
       },
       {
-        "id": "off_key_held_down",
+        "id": "4512720_off_key_held_down",
         "title": {
           "en": "Off (Key held down)"
         },
@@ -4234,7 +4234,7 @@
         ]
       },
       {
-        "id": "off_key_released",
+        "id": "4512720_off_key_released",
         "title": {
           "en": "Off (Key released)"
         },

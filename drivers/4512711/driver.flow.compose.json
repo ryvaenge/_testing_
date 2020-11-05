@@ -1,43 +1,43 @@
 {
   "triggers": [
     {
-      "id": "all_on",
+      "id": "4512711_all_on",
       "title": {
         "en": "All on"
       }
     },
     {
-      "id": "all_off",
+      "id": "4512711_all_off",
       "title": {
         "en": "All off"
       }
     },
     {
-      "id": "all_on_key_held_down",
+      "id": "4512711_all_on_key_held_down",
       "title": {
         "en": "All on (Key held down)"
       }
     },
     {
-      "id": "all_on_key_released",
+      "id": "4512711_all_on_key_released",
       "title": {
         "en": "All on (Key released)"
       }
     },
     {
-      "id": "all_off_key_held_down",
+      "id": "4512711_all_off_key_held_down",
       "title": {
         "en": "All off (Key held down)"
       }
     },
     {
-      "id": "all_off_key_released",
+      "id": "4512711_all_off_key_released",
       "title": {
         "en": "All off (Key released)"
       }
     },
     {
-      "id": "on",
+      "id": "4512711_on",
       "title": {
         "en": "On"
       },
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "id": "off",
+      "id": "4512711_off",
       "title": {
         "en": "Off"
       },
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "id": "on_key_held_down",
+      "id": "4512711_on_key_held_down",
       "title": {
         "en": "On (Key held down)"
       },
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "id": "on_key_released",
+      "id": "4512711_on_key_released",
       "title": {
         "en": "On (Key released)"
       },
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "id": "off_key_held_down",
+      "id": "4512711_off_key_held_down",
       "title": {
         "en": "Off (Key held down)"
       },
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "id": "off_key_released",
+      "id": "4512711_off_key_released",
       "title": {
         "en": "Off (Key released)"
       },
@@ -265,37 +265,37 @@
       ]
     },
     {
-      "id": "scene_1",
+      "id": "4512711_scene_1",
       "title": {
         "en": "S1"
       }
     },
     {
-      "id": "scene_2",
+      "id": "4512711_scene_2",
       "title": {
         "en": "S2"
       }
     },
     {
-      "id": "scene_1_key_held_down",
+      "id": "4512711_scene_1_key_held_down",
       "title": {
         "en": "S1 (Key held down)"
       }
     },
     {
-      "id": "scene_1_key_released",
+      "id": "4512711_scene_1_key_released",
       "title": {
         "en": "S1 (Key released)"
       }
     },
     {
-      "id": "scene_2_key_held_down",
+      "id": "4512711_scene_2_key_held_down",
       "title": {
         "en": "S2 (Key held down)"
       }
     },
     {
-      "id": "scene_2_key_released",
+      "id": "4512711_scene_2_key_released",
       "title": {
         "en": "S2 (Key released)"
       }
