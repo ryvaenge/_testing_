@@ -1,14 +1,14 @@
 {
-  "id": "net.filllip-namron",
-  "version": "2.0.5",
+  "id": "net.dimmerfix.",
+  "version": "1.0.0",
   "compatibility": ">=5.0.0",
   "sdk": 3,
-  "brandColor": "#C0C81D",
+  "brandColor": "#1d28c8",
   "name": {
-    "en": "namron"
+    "en": "DimmerFix"
   },
   "description": {
-    "en": "Adds support for namron Z-wave & ZigBee devices"
+    "en": "Fix for Namron dimmer with ManufacturerID:1073 (z-wave) and ManufacturerID:Shyugj (Zigbee)"
   },
   "category": [
     "lights"
@@ -17,7 +17,9 @@
     "en": [
       "namron",
       "namron as",
-      "namronas"
+      "namronas",
+      "Shyugj",
+      "1073"
     ]
   },
   "permissions": [
@@ -29,8 +31,8 @@
     "small": "/assets/images/small.png"
   },
   "author": {
-    "name": "jorgen wist",
-    "email": "jorgen.wist@namron.com"
+    "name": "Pål Ryvænge",
+    "email": "ryvaenge@gmail.com"
   },
   "contributors": {
     "developers": [
